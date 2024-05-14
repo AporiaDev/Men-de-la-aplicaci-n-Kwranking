@@ -1,0 +1,24 @@
+Recetas vegetarianas	Recetas sin gluten	Recetas sin lactosa	Recetas bajas en calorías
+Recetas de postres	Recetas de ensaladas	Recetas de sopas	Recetas de cenas
+Recetas de almuerzos	Recetas para niños	Recetas de cocina internacional	Recetas de cocina mexicana
+Recetas de cocina italiana	Recetas de cocina española	Recetas de cocina francesa	Recetas de cocina asiática
+Recetas de pastas	Recetas de arroces	Recetas de pollo	Recetas de carne
+Recetas de pescado	Recetas de mariscos	Recetas de panes	Recetas de pasteles
+Recetas de galletas	Recetas de muffins	Recetas de brownies	Recetas de helados
+Recetas de bebidas	Recetas de batidos	Recetas de smoothies	Recetas de jugos
+Recetas de salsas	Recetas de aderezos	Recetas de dips	Recetas de aperitivos
+Recetas de bocadillos	Recetas de desayunos	Recetas de brunch	Recetas de comida rápida
+Recetas de comida casera	Recetas de temporada	Recetas de Navidad	Recetas de Halloween
+Recetas de Semana Santa	Recetas de verano	Recetas de invierno	Recetas de primavera
+Recetas de otoño	Recetas económicas	Recetas gourmet	Recetas sin azúcar
+Recetas bajas en carbohidratos	Recetas altas en proteínas	Recetas paleo	Recetas keto
+Recetas con superalimentos	Recetas detox	Recetas de comidas rápidas saludables	Recetas para fiestas
+Recetas para cumpleaños	Recetas para Navidad	Recetas para San Valentín	Recetas para Pascua
+Recetas para Acción de Gracias	Recetas para Año Nuevo	Recetas tradicionales	Recetas modernas
+Recetas de autor	Recetas caseras	Recetas económicas	Recetas de abuela
+Recetas de mamá	Recetas de tarta	Recetas de quiche	Recetas de soufflé
+Recetas de flan	Recetas de natillas	Recetas de pudin	Recetas de merengue
+Recetas de mousse	Recetas de crepes	Recetas de waffles	Recetas de pancakes
+Recetas de torrijas	Recetas de empanadas	Recetas de croquetas	Recetas de hamburguesas
+Recetas de pizzas	Recetas de lasañas	Recetas de burritos	Recetas de tacos
+Recetas de enchiladas	Recetas de sushi	Recetas de ramen	Recetas de ceviche
